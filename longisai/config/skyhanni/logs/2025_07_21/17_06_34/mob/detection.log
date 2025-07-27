@@ -1,0 +1,12 @@
+17:11:14 `Villager`365 missed {
+ is already Found: false).
+ Position: LorenzVec(x=17.5, y=70.0, z=-99.0)
+ DistanceC: 23.614183423742368
+Relative Position: LorenzVec(x=23.614183423742368, y=0.0, z=-20.030749857878817)
+ }
+17:11:16 `0342049vxe`523 missed {
+ is already Found: false).
+ Position: LorenzVec(x=-29.5, y=57.0, z=-90.5)
+ DistanceC: 23.385816576257632
+Relative Position: LorenzVec(x=-23.385816576257632, y=-13.0, z=-11.530749857878817)
+ }

@@ -1,0 +1,102 @@
+{
+  "players": {
+    "1747b4f3-138c-4aa4-9449-0c691d0a82bb": {
+      "profiles": {
+        "pear": {
+          "pets": [
+            {
+              "petInternalName": "SHEEP;4",
+              "heldItemInternalName": "PET_ITEM_BUBBLEGUM",
+              "exp": 6.40348859617368E7,
+              "uuid": "91648a9e-3348-4aa3-92cd-036169c4a876"
+            },
+            {
+              "petInternalName": "ARMADILLO;4",
+              "exp": 8932238.381438777,
+              "uuid": "be27e0e9-e741-4366-8a78-4dcd8d67f742"
+            },
+            {
+              "petInternalName": "SKELETON;4",
+              "heldItemInternalName": "DWARF_TURTLE_SHELMET",
+              "exp": 1.0385250516846303E7,
+              "uuid": "e4bea27c-fc43-4e49-a132-becaa22e98e3"
+            },
+            {
+              "petInternalName": "RAT;4",
+              "exp": 0.0,
+              "uuid": "ba28e3f7-5a16-44e3-9ca5-7c0cbefe5cbb"
+            },
+            {
+              "petInternalName": "SKELETON;3",
+              "exp": 23547.997733334247,
+              "uuid": "f37702bb-f2a1-4ddf-83bf-3e8d1c2ed42e"
+            },
+            {
+              "petInternalName": "ENDERMAN;3",
+              "exp": 0.0,
+              "uuid": "28076cce-a34a-42eb-a395-cb8725c728ee"
+            },
+            {
+              "petInternalName": "FROG;0",
+              "exp": 456092.02659251937,
+              "uuid": "4588fe03-acb6-4245-bec1-516c88d91778"
+            },
+            {
+              "petInternalName": "FROG;0",
+              "exp": 0.0,
+              "uuid": "8c8f28d1-dae6-439c-b58d-c3804b647c82"
+            },
+            {
+              "petInternalName": "GRANDMA_WOLF;0",
+              "exp": 0.0,
+              "uuid": "dd4541e5-d7e5-40e3-8c97-33b4561e458d"
+            },
+            {
+              "petInternalName": "TARANTULA;3",
+              "exp": 0.0,
+              "uuid": "3267c647-9114-428f-9d27-4ec17008bcd0"
+            },
+            {
+              "petInternalName": "RABBIT;4",
+              "heldItemInternalName": "GREEN_BANDANA",
+              "exp": 7.47753319878509E7,
+              "uuid": "03c387b2-105f-4fac-98dc-4cc79d531c88"
+            },
+            {
+              "petInternalName": "SILVERFISH;4",
+              "heldItemInternalName": "PET_ITEM_MINING_SKILL_BOOST_RARE",
+              "exp": 3.531367639348221E7,
+              "uuid": "b3dfaffa-69ec-4b3c-8d80-80b7fe18925c"
+            },
+            {
+              "petInternalName": "ROCK;0",
+              "exp": 0.0,
+              "uuid": "9fa8700a-1431-4361-9c6c-b1d16269592c"
+            },
+            {
+              "petInternalName": "GUARDIAN;5",
+              "heldItemInternalName": "PET_ITEM_ALL_SKILLS_BOOST_COMMON",
+              "exp": 4.826045743637734E8,
+              "uuid": "c8c94378-09d9-4c67-a917-019b8bd69ae0"
+            }
+          ],
+          "expSharePets": []
+        }
+      }
+    },
+    "d536b7f1-92df-4a01-bc02-92908f419115": {
+      "profiles": {
+        "pear": {
+          "pets": [
+            {
+              "petInternalName": "ENDERMAN;3",
+              "exp": 0.0,
+              "uuid": "7bdbcda7-bfdf-47bc-86b2-44714b09f65e"
+            }
+          ],
+          "expSharePets": []
+        }
+      }
+    }
+  }
+}

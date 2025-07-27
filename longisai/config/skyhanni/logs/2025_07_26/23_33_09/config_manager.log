@@ -1,0 +1,429 @@
+23:33:39 Trying to load config from config\skyhanni\config.json
+23:33:39 load-config-now
+23:33:40 Loaded config from file
+23:33:40 Trying to load sacks from config\skyhanni\sacks.json
+23:33:40 load-sacks-now
+23:33:40 Loaded sacks from file
+23:33:40 Trying to load friends from config\skyhanni\friends.json
+23:33:40 load-friends-now
+23:33:40 Loaded friends from file
+23:33:40 Trying to load known_features from config\skyhanni\known_features.json
+23:33:40 load-known_features-now
+23:33:40 Loaded known_features from file
+23:33:40 Trying to load jacob_contests from config\skyhanni\jacob_contests.json
+23:33:40 Setting jacob_contests to be blank as it did not exist. It will be saved once something is written to it
+23:33:40 Trying to load visual_words from config\skyhanni\visual_words.json
+23:33:40 Setting visual_words to be blank as it did not exist. It will be saved once something is written to it
+23:33:40 Trying to load pets from config\skyhanni\pets.json
+23:33:40 load-pets-now
+23:33:40 Loaded pets from file
+23:34:20 saveConfig: Updated known feature flags
+23:34:20 Saving known_features file
+23:34:20 Saved known_features file successfully
+23:34:20 saveConfig: Updated known feature flags
+23:34:20 Saving known_features file
+23:34:20 Saved known_features file successfully
+23:34:40 saveConfig: auto-save-60s
+23:34:40 Saving config file
+23:34:40 Saved config file successfully
+23:34:40 saveConfig: auto-save-60s
+23:34:40 Saving config file
+23:34:40 Saved config file successfully
+23:35:40 saveConfig: auto-save-60s
+23:35:40 Saving config file
+23:35:40 Saved config file successfully
+23:35:40 saveConfig: auto-save-60s
+23:35:40 Saving config file
+23:35:40 Saved config file successfully
+23:36:40 saveConfig: auto-save-60s
+23:36:40 Saving config file
+23:36:40 Saved config file successfully
+23:36:40 saveConfig: auto-save-60s
+23:36:40 Saving config file
+23:36:40 Saved config file successfully
+23:37:40 saveConfig: auto-save-60s
+23:37:40 Saving config file
+23:37:40 Saved config file successfully
+23:37:40 saveConfig: auto-save-60s
+23:37:40 Saving config file
+23:37:40 Saved config file successfully
+23:38:40 saveConfig: auto-save-60s
+23:38:40 Saving config file
+23:38:40 Saved config file successfully
+23:38:40 saveConfig: auto-save-60s
+23:38:40 Saving config file
+23:38:40 Saved config file successfully
+23:39:40 saveConfig: auto-save-60s
+23:39:40 Saving config file
+23:39:40 Saved config file successfully
+23:39:40 saveConfig: auto-save-60s
+23:39:40 Saving config file
+23:39:40 Saved config file successfully
+23:40:40 saveConfig: auto-save-60s
+23:40:40 Saving config file
+23:40:40 Saved config file successfully
+23:40:40 saveConfig: auto-save-60s
+23:40:40 Saving config file
+23:40:40 Saved config file successfully
+23:41:40 saveConfig: auto-save-60s
+23:41:40 Saving config file
+23:41:40 Saved config file successfully
+23:41:40 saveConfig: auto-save-60s
+23:41:40 Saving config file
+23:41:40 Saved config file successfully
+23:42:40 saveConfig: auto-save-60s
+23:42:40 Saving config file
+23:42:40 Saved config file successfully
+23:42:40 saveConfig: auto-save-60s
+23:42:40 Saving config file
+23:42:40 Saved config file successfully
+23:43:40 saveConfig: auto-save-60s
+23:43:40 Saving config file
+23:43:40 Saved config file successfully
+23:43:40 saveConfig: auto-save-60s
+23:43:40 Saving config file
+23:43:40 Saved config file successfully
+23:44:40 saveConfig: auto-save-60s
+23:44:40 Saving config file
+23:44:40 Saved config file successfully
+23:44:40 saveConfig: auto-save-60s
+23:44:40 Saving config file
+23:44:40 Saved config file successfully
+23:45:40 saveConfig: auto-save-60s
+23:45:40 Saving config file
+23:45:40 Saved config file successfully
+23:45:40 saveConfig: auto-save-60s
+23:45:40 Saving config file
+23:45:40 Saved config file successfully
+23:46:40 saveConfig: auto-save-60s
+23:46:40 Saving config file
+23:46:40 Saved config file successfully
+23:46:40 saveConfig: auto-save-60s
+23:46:40 Saving config file
+23:46:40 Saved config file successfully
+23:47:40 saveConfig: auto-save-60s
+23:47:40 Saving config file
+23:47:40 Saved config file successfully
+23:47:40 saveConfig: auto-save-60s
+23:47:40 Saving config file
+23:47:40 Saved config file successfully
+23:48:40 saveConfig: auto-save-60s
+23:48:40 Saving config file
+23:48:40 Saved config file successfully
+23:48:40 saveConfig: auto-save-60s
+23:48:40 Saving config file
+23:48:40 Saved config file successfully
+23:49:40 saveConfig: auto-save-60s
+23:49:40 Saving config file
+23:49:40 Saved config file successfully
+23:49:40 saveConfig: auto-save-60s
+23:49:40 Saving config file
+23:49:40 Saved config file successfully
+23:50:40 saveConfig: auto-save-60s
+23:50:40 Saving config file
+23:50:40 Saved config file successfully
+23:50:40 saveConfig: auto-save-60s
+23:50:40 Saving config file
+23:50:40 Saved config file successfully
+23:51:40 saveConfig: auto-save-60s
+23:51:40 Saving config file
+23:51:40 Saved config file successfully
+23:51:40 saveConfig: auto-save-60s
+23:51:40 Saving config file
+23:51:40 Saved config file successfully
+23:52:40 saveConfig: auto-save-60s
+23:52:40 Saving config file
+23:52:40 Saved config file successfully
+23:52:40 saveConfig: auto-save-60s
+23:52:40 Saving config file
+23:52:40 Saved config file successfully
+23:53:40 saveConfig: auto-save-60s
+23:53:40 Saving config file
+23:53:40 Saved config file successfully
+23:53:40 saveConfig: auto-save-60s
+23:53:40 Saving config file
+23:53:40 Saved config file successfully
+23:54:40 saveConfig: auto-save-60s
+23:54:40 Saving config file
+23:54:40 Saved config file successfully
+23:54:40 saveConfig: auto-save-60s
+23:54:40 Saving config file
+23:54:40 Saved config file successfully
+23:55:40 saveConfig: auto-save-60s
+23:55:40 Saving config file
+23:55:40 Saved config file successfully
+23:55:40 saveConfig: auto-save-60s
+23:55:40 Saving config file
+23:55:40 Saved config file successfully
+23:56:40 saveConfig: auto-save-60s
+23:56:40 Saving config file
+23:56:40 Saved config file successfully
+23:56:40 saveConfig: auto-save-60s
+23:56:40 Saving config file
+23:56:40 Saved config file successfully
+23:57:40 saveConfig: auto-save-60s
+23:57:40 Saving config file
+23:57:40 Saved config file successfully
+23:57:40 saveConfig: auto-save-60s
+23:57:40 Saving config file
+23:57:40 Saved config file successfully
+23:58:40 saveConfig: auto-save-60s
+23:58:40 Saving config file
+23:58:40 Saved config file successfully
+23:58:40 saveConfig: auto-save-60s
+23:58:40 Saving config file
+23:58:40 Saved config file successfully
+23:59:40 saveConfig: auto-save-60s
+23:59:40 Saving config file
+23:59:40 Saved config file successfully
+23:59:40 saveConfig: auto-save-60s
+23:59:40 Saving config file
+23:59:40 Saved config file successfully
+00:00:40 saveConfig: auto-save-60s
+00:00:40 Saving config file
+00:00:40 Saved config file successfully
+00:00:40 saveConfig: auto-save-60s
+00:00:40 Saving config file
+00:00:40 Saved config file successfully
+00:01:40 saveConfig: auto-save-60s
+00:01:40 Saving config file
+00:01:40 Saved config file successfully
+00:01:40 saveConfig: auto-save-60s
+00:01:40 Saving config file
+00:01:40 Saved config file successfully
+00:02:40 saveConfig: auto-save-60s
+00:02:40 Saving config file
+00:02:40 Saved config file successfully
+00:02:40 saveConfig: auto-save-60s
+00:02:40 Saving config file
+00:02:40 Saved config file successfully
+00:03:40 saveConfig: auto-save-60s
+00:03:40 Saving config file
+00:03:40 Saved config file successfully
+00:03:40 saveConfig: auto-save-60s
+00:03:40 Saving config file
+00:03:40 Saved config file successfully
+00:04:40 saveConfig: auto-save-60s
+00:04:40 Saving config file
+00:04:40 Saved config file successfully
+00:04:40 saveConfig: auto-save-60s
+00:04:40 Saving config file
+00:04:40 Saved config file successfully
+00:05:40 saveConfig: auto-save-60s
+00:05:40 Saving config file
+00:05:40 Saved config file successfully
+00:05:40 saveConfig: auto-save-60s
+00:05:40 Saving config file
+00:05:40 Saved config file successfully
+00:06:40 saveConfig: auto-save-60s
+00:06:40 Saving config file
+00:06:40 Saved config file successfully
+00:06:40 saveConfig: auto-save-60s
+00:06:40 Saving config file
+00:06:40 Saved config file successfully
+00:07:40 saveConfig: auto-save-60s
+00:07:40 Saving config file
+00:07:40 Saved config file successfully
+00:07:40 saveConfig: auto-save-60s
+00:07:40 Saving config file
+00:07:40 Saved config file successfully
+00:08:40 saveConfig: auto-save-60s
+00:08:40 Saving config file
+00:08:40 Saved config file successfully
+00:08:40 saveConfig: auto-save-60s
+00:08:40 Saving config file
+00:08:40 Saved config file successfully
+00:09:40 saveConfig: auto-save-60s
+00:09:40 Saving config file
+00:09:40 Saved config file successfully
+00:09:40 saveConfig: auto-save-60s
+00:09:40 Saving config file
+00:09:40 Saved config file successfully
+00:10:40 saveConfig: auto-save-60s
+00:10:40 Saving config file
+00:10:40 Saved config file successfully
+00:10:40 saveConfig: auto-save-60s
+00:10:40 Saving config file
+00:10:40 Saved config file successfully
+00:11:40 saveConfig: auto-save-60s
+00:11:40 Saving config file
+00:11:40 Saved config file successfully
+00:11:40 saveConfig: auto-save-60s
+00:11:40 Saving config file
+00:11:40 Saved config file successfully
+00:12:40 saveConfig: auto-save-60s
+00:12:40 Saving config file
+00:12:40 Saved config file successfully
+00:12:40 saveConfig: auto-save-60s
+00:12:40 Saving config file
+00:12:40 Saved config file successfully
+00:13:40 saveConfig: auto-save-60s
+00:13:40 Saving config file
+00:13:40 Saved config file successfully
+00:13:40 saveConfig: auto-save-60s
+00:13:40 Saving config file
+00:13:40 Saved config file successfully
+00:14:40 saveConfig: auto-save-60s
+00:14:40 Saving config file
+00:14:40 Saved config file successfully
+00:14:40 saveConfig: auto-save-60s
+00:14:40 Saving config file
+00:14:40 Saved config file successfully
+00:15:40 saveConfig: auto-save-60s
+00:15:40 Saving config file
+00:15:40 Saved config file successfully
+00:15:40 saveConfig: auto-save-60s
+00:15:40 Saving config file
+00:15:40 Saved config file successfully
+00:16:40 saveConfig: auto-save-60s
+00:16:40 Saving config file
+00:16:40 Saved config file successfully
+00:16:40 saveConfig: auto-save-60s
+00:16:40 Saving config file
+00:16:40 Saved config file successfully
+00:17:40 saveConfig: auto-save-60s
+00:17:40 Saving config file
+00:17:40 Saved config file successfully
+00:17:40 saveConfig: auto-save-60s
+00:17:40 Saving config file
+00:17:40 Saved config file successfully
+00:18:40 saveConfig: auto-save-60s
+00:18:40 Saving config file
+00:18:40 Saved config file successfully
+00:18:40 saveConfig: auto-save-60s
+00:18:40 Saving config file
+00:18:40 Saved config file successfully
+00:19:40 saveConfig: auto-save-60s
+00:19:40 Saving config file
+00:19:40 Saved config file successfully
+00:19:40 saveConfig: auto-save-60s
+00:19:40 Saving config file
+00:19:40 Saved config file successfully
+00:20:40 saveConfig: auto-save-60s
+00:20:40 Saving config file
+00:20:40 Saved config file successfully
+00:20:40 saveConfig: auto-save-60s
+00:20:40 Saving config file
+00:20:40 Saved config file successfully
+00:21:40 saveConfig: auto-save-60s
+00:21:40 Saving config file
+00:21:40 Saved config file successfully
+00:21:40 saveConfig: auto-save-60s
+00:21:40 Saving config file
+00:21:40 Saved config file successfully
+00:22:40 saveConfig: auto-save-60s
+00:22:40 Saving config file
+00:22:40 Saved config file successfully
+00:22:40 saveConfig: auto-save-60s
+00:22:40 Saving config file
+00:22:40 Saved config file successfully
+00:23:40 saveConfig: auto-save-60s
+00:23:40 Saving config file
+00:23:40 Saved config file successfully
+00:23:40 saveConfig: auto-save-60s
+00:23:40 Saving config file
+00:23:40 Saved config file successfully
+00:24:40 saveConfig: auto-save-60s
+00:24:40 Saving config file
+00:24:40 Saved config file successfully
+00:24:40 saveConfig: auto-save-60s
+00:24:40 Saving config file
+00:24:40 Saved config file successfully
+00:25:40 saveConfig: auto-save-60s
+00:25:40 Saving config file
+00:25:40 Saved config file successfully
+00:25:40 saveConfig: auto-save-60s
+00:25:40 Saving config file
+00:25:40 Saved config file successfully
+00:26:40 saveConfig: auto-save-60s
+00:26:40 Saving config file
+00:26:40 Saved config file successfully
+00:26:40 saveConfig: auto-save-60s
+00:26:40 Saving config file
+00:26:40 Saved config file successfully
+00:27:40 saveConfig: auto-save-60s
+00:27:40 Saving config file
+00:27:40 Saved config file successfully
+00:27:40 saveConfig: auto-save-60s
+00:27:40 Saving config file
+00:27:40 Saved config file successfully
+00:28:40 saveConfig: auto-save-60s
+00:28:40 Saving config file
+00:28:40 Saved config file successfully
+00:28:40 saveConfig: auto-save-60s
+00:28:40 Saving config file
+00:28:40 Saved config file successfully
+00:29:40 saveConfig: auto-save-60s
+00:29:40 Saving config file
+00:29:40 Saved config file successfully
+00:29:40 saveConfig: auto-save-60s
+00:29:40 Saving config file
+00:29:40 Saved config file successfully
+00:30:40 saveConfig: auto-save-60s
+00:30:40 Saving config file
+00:30:40 Saved config file successfully
+00:30:40 saveConfig: auto-save-60s
+00:30:40 Saving config file
+00:30:40 Saved config file successfully
+00:31:40 saveConfig: auto-save-60s
+00:31:40 Saving config file
+00:31:40 Saved config file successfully
+00:31:40 saveConfig: auto-save-60s
+00:31:40 Saving config file
+00:31:40 Saved config file successfully
+00:32:40 saveConfig: auto-save-60s
+00:32:40 Saving config file
+00:32:40 Saved config file successfully
+00:32:40 saveConfig: auto-save-60s
+00:32:40 Saving config file
+00:32:40 Saved config file successfully
+00:33:40 saveConfig: auto-save-60s
+00:33:40 Saving config file
+00:33:40 Saved config file successfully
+00:33:40 saveConfig: auto-save-60s
+00:33:40 Saving config file
+00:33:40 Saved config file successfully
+00:34:40 saveConfig: auto-save-60s
+00:34:40 Saving config file
+00:34:40 Saved config file successfully
+00:34:40 saveConfig: auto-save-60s
+00:34:40 Saving config file
+00:34:40 Saved config file successfully
+00:35:40 saveConfig: auto-save-60s
+00:35:40 Saving config file
+00:35:40 Saved config file successfully
+00:35:40 saveConfig: auto-save-60s
+00:35:40 Saving config file
+00:35:40 Saved config file successfully
+00:36:40 saveConfig: auto-save-60s
+00:36:40 Saving config file
+00:36:40 Saved config file successfully
+00:36:40 saveConfig: auto-save-60s
+00:36:40 Saving config file
+00:36:40 Saved config file successfully
+00:37:40 saveConfig: auto-save-60s
+00:37:40 Saving config file
+00:37:40 Saved config file successfully
+00:37:40 saveConfig: auto-save-60s
+00:37:40 Saving config file
+00:37:40 Saved config file successfully
+00:38:40 saveConfig: auto-save-60s
+00:38:40 Saving config file
+00:38:40 Saved config file successfully
+00:38:40 saveConfig: auto-save-60s
+00:38:40 Saving config file
+00:38:40 Saved config file successfully
+00:39:40 saveConfig: auto-save-60s
+00:39:40 Saving config file
+00:39:40 Saved config file successfully
+00:39:40 saveConfig: auto-save-60s
+00:39:40 Saving config file
+00:39:40 Saved config file successfully
+00:40:40 saveConfig: auto-save-60s
+00:40:40 Saving config file
+00:40:40 Saved config file successfully
+00:40:40 saveConfig: auto-save-60s
+00:40:40 Saving config file
+00:40:40 Saved config file successfully
+00:41:22 saveConfig: shutdown-hook
+00:41:22 Saving config file

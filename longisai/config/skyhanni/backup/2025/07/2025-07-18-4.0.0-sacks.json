@@ -1,0 +1,72 @@
+{
+  "players": {
+    "1747b4f3-138c-4aa4-9449-0c691d0a82bb": {
+      "profiles": {
+        "pear": {
+          "sackContents": {
+            "NULL_SPHERE": {
+              "amount": 23,
+              "lastChange": 23,
+              "status": "OUTDATED"
+            },
+            "REVENANT_FLESH": {
+              "amount": 45,
+              "lastChange": 12,
+              "status": "OUTDATED"
+            },
+            "TARANTULA_WEB": {
+              "amount": 1040,
+              "lastChange": -146,
+              "status": "OUTDATED"
+            },
+            "SPIDER_CATALYST": {
+              "amount": 0,
+              "lastChange": -1,
+              "status": "OUTDATED"
+            },
+            "DERELICT_ASHE": {
+              "amount": 0,
+              "lastChange": -6,
+              "status": "OUTDATED"
+            },
+            "ENCHANTED_RED_MUSHROOM": {
+              "amount": 0,
+              "lastChange": 0,
+              "status": "OUTDATED"
+            },
+            "ENCHANTED_PUMPKIN": {
+              "amount": 0,
+              "lastChange": 0,
+              "status": "OUTDATED"
+            },
+            "ENCHANTED_CACTUS_GREEN": {
+              "amount": 0,
+              "lastChange": 0,
+              "status": "OUTDATED"
+            },
+            "ENCHANTED_MELON": {
+              "amount": 0,
+              "lastChange": 0,
+              "status": "OUTDATED"
+            },
+            "ENCHANTED_NETHER_STALK": {
+              "amount": 0,
+              "lastChange": 0,
+              "status": "OUTDATED"
+            },
+            "ENCHANTED_SUGAR": {
+              "amount": 0,
+              "lastChange": 0,
+              "status": "OUTDATED"
+            },
+            "RED_MUSHROOM": {
+              "amount": 0,
+              "lastChange": 0,
+              "status": "OUTDATED"
+            }
+          }
+        }
+      }
+    }
+  }
+}
